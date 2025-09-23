@@ -324,7 +324,7 @@ a:hover{
 .publication-authors,
 .publication-authors a {
   color: black !important;   /* 文字统一黑色 */
-  font-size: 22px;           /* 原 1.4rem ≈ 22px */
+  font-size: 20px;           /* 原 1.4rem ≈ 22px */
 }
 
 .publication-links a {
@@ -336,7 +336,7 @@ a:hover{
     align-items: center;
     margin: 5px;          /* 原 0.3rem */
     text-decoration: none;
-    font-size: 19px;      /* 原 1.2rem ≈ 19px */
+    font-size: 16px;      /* 原 1.2rem ≈ 19px */
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
