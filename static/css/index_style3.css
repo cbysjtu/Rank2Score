@@ -324,28 +324,27 @@ a:hover{
 .publication-authors,
 .publication-authors a {
   color: black !important;   /* 文字统一黑色 */
-  font-size: 1.4rem; /* 增大文字 */
+  font-size: 22px;           /* 原 1.4rem ≈ 22px */
 }
 
-
-
 .publication-links a {
-    color: black; /* 文字颜色 */
-    background-color: rgba(255, 255, 255, 0.7); /* 半透明背景让文字更清晰 */
-    padding: 0.5rem 1rem; /* 内边距更大 */
-    border-radius: 0.5rem;
+    color: black; 
+    background-color: rgba(255, 255, 255, 0.7); /* 半透明背景 */
+    padding: 8px 16px;    /* 原 0.5rem 1rem */
+    border-radius: 8px;   /* 原 0.5rem */
     display: inline-flex;
     align-items: center;
-    margin: 0.3rem;
+    margin: 5px;          /* 原 0.3rem */
     text-decoration: none;
-    font-size: 1.2rem; /* 增大文字 */
+    font-size: 19px;      /* 原 1.2rem ≈ 19px */
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 .publication-links .icon i {
-    font-size: 1.5rem; /* 增大图标 */
-    margin-right: 0.5rem;
+    font-size: 24px; /* 原 1.5rem ≈ 24px */
+    margin-right: 8px; /* 原 0.5rem ≈ 8px */
 }
+
 
 .publication-links a .icon i {
     color: black;         /* 图标颜色 */
